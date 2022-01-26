@@ -1,0 +1,30 @@
+.row {
+    margin-left: 20px;
+    color: #fff;
+}
+.row_posters {
+    display: flex;
+    overflow-y: hidden; /*this hides the scroll on the y axis */
+    overflow-x: scroll; /*this shows the scroll on the x axis */
+    padding: 20px; /*this so when a poster grows in size(transform) it does not grow and crop itself */
+}
+.row_posters::-webkit-scrollbar {
+    /*to tell all browsers about scroll bar to  */
+    display: none; /* hide the scroll but keep the functionalty*/
+}
+.row_poster {
+    object-fit: contain;
+    width: 100%;
+    max-height: 100px;
+    margin-right: 10px;
+    transition: transform 450ms;
+}
+.row_poster:hover {
+    transform: scale(1.08);
+}
+.row_posterLarge {
+    max-height: 250px;
+}
+.row_posterLarge:hover {
+    transform: scale(1.09);
+}
