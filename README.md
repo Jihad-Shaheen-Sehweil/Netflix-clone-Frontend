@@ -16,8 +16,10 @@ npm packages used:
 4. movie-trailer
 
 Screenshots of the page
+
 The first Screenshots
 ![alt text](Screenshots/Netflix_1.png)
+
 
 The second Screenshots
 ![alt text](Screenshots/Netflix_2.png)
