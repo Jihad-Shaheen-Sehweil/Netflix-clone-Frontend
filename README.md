@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You need an API_KEY from https://www.themoviedb.org/
+You will need an API_KEY from https://www.themoviedb.org/ to make this work
 
 
 ### `npm start`
