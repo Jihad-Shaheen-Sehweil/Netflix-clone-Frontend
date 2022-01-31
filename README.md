@@ -9,9 +9,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Screenshots of the page
 
-![alt text](https://drive.google.com/file/d/1YpCApi_bMj4phqxxQ9z8NXQyY1d91KFO/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1YpCApi_bMj4phqxxQ9z8NXQyY1d91KFO/view?usp=sharing?raw=true)
 
-![alt text](https://drive.google.com/file/d/1YpCApi_bMj4phqxxQ9z8NXQyY1d91KFO/view?usp=sharing)
+
 
 
 
